@@ -12,7 +12,7 @@ require './cell_phone_validator.rb'
 # To follow proper convention, write it in a file called 'cell_phone_validator.rb' (Ref line no.3).
 # Share your implementation file with Balwant (Github ID: balwantk) as a private Github Gist.
 # We'll have an eye on the time it takes for you to finish. The sooner the better, right? :)
-# If you have any questions, check if they've already been answered in the comments section of this gist. If not, just leave a comment.
+# If you have any questions, check if they've already been answered in the comments section of this gist. Else, just leave a comment.
 
 ## HINTS:
 
