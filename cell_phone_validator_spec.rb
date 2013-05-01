@@ -8,17 +8,17 @@ require './cell_phone_validator.rb'
 
 ## TO SUBMIT YOUR ANSWER:
 
-# Fork and clone this gist, and use the rspecs below to write your own implementation.
+# Fork and clone this gist. Use the rspecs below to help write your own implementation.
 # Share your implementation file with Balwant (Github ID: balwantk) as a private Github Gist.
-# We'll have an eye on the time it takes for you to finish. The sooner the better.
+# We'll have an eye on the time it takes for you to finish. The sooner the better, right? :)
 # If you have any questions, check if they've already been answered in the comments section of this gist. If not, just leave a comment.
 
 ## HINTS:
 
-# 1] Wondering what this 'rspec' thing is? Google "Rspec". Duhh! Right? ;)
+# 1] Wondering what this 'rspec' thing is? Google "Rspec". Duhh! ;)
 # 2] Remember to write the code in the spirit of the application. The tests cases (rspecs) are only a subset of the cases that might come in the real world.
 # 3] Feel free to google/ask around for help, yet remember that copy-pasting code/logic will be your loss.
-# 4] Using a ready-made library found online may work too, but the main point is to see how you tackle this challenge yourself.
+# 4] Using a ready-made library found online may work too, but the main point here is to see how you tackle this challenge yourself.
 # 5] The code you write must work, be fast to run and beautiful to read.
 # 6] For bonus points, upgrade the specs below with cases that may not be covered by the existing specs and send a pull-request.
 # 7] If you find that a few cases are unlikely to happen in the real world, reflect on why we have them there anyways.
