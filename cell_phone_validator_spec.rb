@@ -1,7 +1,7 @@
 require 'rspec'
 require './cell_phone_validator.rb'
 
-## TEST EXCERCISE: Cell phone validator.
+## CODE EXCERCISE: Cell phone validator.
 
 # It's very commom to see web forms having a validation for cell phone numbers.
 # We want you to try to write the best cell phone validation logic that you can think of.
