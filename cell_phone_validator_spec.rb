@@ -20,10 +20,10 @@ require './cell_phone_validator.rb'
 # 5] The code you write must work, be fast to run and beautiful to read.
 # 6] For bonus points, upgrade the specs below with cases that may not be covered by the existing specs and send a pull-request.
 # 7] If you find that a few cases are unlikely to happen in the real world, reflect on why we have them there anyways.
-# 8] Check if you've passed the test: 
+# 8] Start by running the specs, them make them all pass: 
 #   a] Make sure you have Rspec installed by successfully running "gem install rspec" in the terminal.
-#   b] navigate to the directory containing this file and running "rspec ./<your_implementation_file_name>.rb --color" in the terminal.
-# 9] Have fun. If you enjoy doing this excercise, you'll probably enjoy your career as a programmer. :)
+#   b] Navigate to the directory containing this file and running "rspec ./<this_files_name>.rb --color" in the terminal.
+# 9] Have fun! If you enjoy doing this excercise, you'll probably enjoy your career as a programmer. :)
 
 ## SPECS FOR YOUR CODE:
 
