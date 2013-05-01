@@ -16,7 +16,7 @@ require './cell_phone_validator.rb'
 
 ## HINTS:
 
-# 1] Wondering what this 'rspec' thing is? Google "Rspec". Duhh! ;)
+# 1] Wondering what this 'rspec' thing is? Google "Rspec". Duhh! ;) or try https://www.relishapp.com/rspec/docs/gettingstarted
 # 2] Remember to write the code in the spirit of the application. The tests cases (rspecs) are only a subset of the cases that might come in the real world.
 # 3] Feel free to google/ask around for help, yet remember that copy-pasting code/logic will be your loss.
 # 4] Using a ready-made library found online may work too, but the main point here is to see how you tackle this challenge yourself.
