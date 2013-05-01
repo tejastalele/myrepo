@@ -7,7 +7,9 @@ require './cell_phone_validator.rb'
 # We want you to try to write the best cell phone validation logic that you can for this.
 # Fork and clone this gist, and use the rspecs below to write your own implementation.
 # We'll have an eye on the time it takes for you to finish. The sooner the better.
-# To submit your answer: Share your implementation file with Balwant (Github ID: balwantk) as a private Github Gist.
+
+## TO SUBMIT YOUR ANSWER:
+# Share your implementation file with Balwant (Github ID: balwantk) as a private Github Gist.
 
 ## HINTS:
 
