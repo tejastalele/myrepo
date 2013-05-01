@@ -11,6 +11,7 @@ require './cell_phone_validator.rb'
 # Fork and clone this gist, and use the rspecs below to write your own implementation.
 # Share your implementation file with Balwant (Github ID: balwantk) as a private Github Gist.
 # We'll have an eye on the time it takes for you to finish. The sooner the better.
+# If you have any questions, check if they've already been answered in the comments section of this gist. If not, just leave a comment.
 
 ## HINTS:
 
