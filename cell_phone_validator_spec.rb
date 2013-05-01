@@ -13,7 +13,7 @@ require './cell_phone_validator.rb'
 
 ## HINTS:
 
-# 1]  Wondering what this 'rspec' thing is? Google "Rspec". Duhh! Right? ;)
+# 1] Wondering what this 'rspec' thing is? Google "Rspec". Duhh! Right? ;)
 # 2] Remember to write the code in the spirit of the application. The tests cases (rspecs) are only a subset of the cases that might come in the real world.
 # 3] Feel free to google/ask around for help, yet remember that copy-pasting code/logic will be your loss.
 # 4] Using a ready-made library found online may work too, but the main point is to see how you tackle this challenge yourself.
@@ -22,7 +22,7 @@ require './cell_phone_validator.rb'
 # 7] If you find that a few cases are unlikely to happen in the real world, reflect on why we have them there anyways.
 # 8] Check if you've passed the test: 
 #   a] Make sure you have Rspec installed by successfully running "gem install rspec" in the terminal.
-#   b] navigate to the directory containing this file and running "rspec ./cell_phone_validator_spec.rb --color" in the terminal.
+#   b] navigate to the directory containing this file and running "rspec ./<your_implementation_file_name>.rb --color" in the terminal.
 # 9] Have fun. If you enjoy doing this excercise, you'll probably enjoy your career as a programmer. :)
 
 ## SPECS FOR YOUR CODE:
