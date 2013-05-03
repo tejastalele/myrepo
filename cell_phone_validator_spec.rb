@@ -51,7 +51,9 @@ describe CellPhoneValidator do
     '8490.88.8009'     ,
     '+91-84900-89a600' ,
     '+91-84r900-89%600',
-
+    '09188888800a'		 ,
+		'9109975691710'		 ,
+		'9108975691710'
     # TODO: Add your own extra cases here.
     
   ].each do |input|
@@ -65,8 +67,12 @@ describe CellPhoneValidator do
     '+91-9490-89ak0'     ,
     '91949088009'        ,
     '919490&88009'       ,
-
-    # TODO: Add your own extra cases below.
+		'0091655654'				 ,
+		'6988632147'				 ,
+		'06988631425' 		   ,
+    '9105889664999'			 ,
+		'9109785a63477'			 ,
+    # TODO: Add your own extra cases below. 
   ].each do |input|
     it "should return FALSE for INVALID input: #{input}" do
       cell_phone_validation_result_of(input).should be_false
